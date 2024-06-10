@@ -1,14 +1,11 @@
 .logo {
   width: 50px;
   height: 32px;
-  gap: 0px;
-  opacity: 0px;
   vertical-align: middle;
 }
 
 .name {
   vertical-align: middle;
-  font-family: Montserrat;
   font-size: 34px;
   font-weight: 700;
   line-height: 41.45px;
@@ -27,9 +24,6 @@
   height: 24px;
   top: 38px;
   left: 308px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -45,7 +39,6 @@ a {
 }
 
 .title1 {
-  font-family: Poppins;
   font-size: 40px;
   font-weight: 700;
   line-height: 48px;
@@ -55,12 +48,12 @@ a {
 }
 
 .img-container1 {
-  width: 100%;
+  width: auto;
   height: 446px;
-  max-width: auto;
   margin-bottom: 74px;
-  padding-left: 99px;
-  padding-right: 105px;
+  padding-left: 15%;
+  padding-right: 15%;
+
 }
 .imges {
   display: inline-block;
@@ -68,9 +61,8 @@ a {
   width: 285px;
   height: 145px;
   top: 301px;
-  gap: 0px;
-  opacity: 0px;
   margin-left: 32px;
+ 
 }
 
 .img-container2 {
@@ -78,25 +70,22 @@ a {
   height: 685px;
   top: 1100px;
   left: 115px;
-  gap: 0px;
-  opacity: 0px;
   margin-right: 142px;
-
   margin-bottom: 133px;
   margin-left: 115px;
+  
 }
 
 .sub-title {
-  font-family: Poppins;
   font-size: 24px;
   font-weight: 600;
   line-height: 28.8px;
   text-align: left;
   color: #3a3a3a;
+  
 }
 
 .description {
-  font-family: Poppins;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -107,31 +96,31 @@ a {
 .photos2 {
   width: 285px;
   height: 301px;
-  gap: 0px;
-  opacity: 0px;
 }
 
 .title2 {
-  font-family: Poppins;
   font-size: 40px;
   font-weight: 700;
   line-height: 48px;
   text-align: center;
   color: #333333;
+  
 }
+
+
 
 .photos3 {
   margin-right: 20px;
 }
 
 .sub-title2 {
-  font-family: Poppins;
   font-size: 20px;
   font-weight: 400;
   line-height: 30px;
   text-align: center;
   color: #666666;
   margin-bottom: 62.29px;
+  padding-left: 40%;
 }
 
 .imges2 {
@@ -140,8 +129,7 @@ a {
   height: 480px;
   top: 1239px;
   left: 115px;
-  gap: 0px;
-  opacity: 0px;
+  padding-left: 20%;
 }
 .dis-info {
   margin-right: 781px;
@@ -154,9 +142,6 @@ a {
   height: 36px;
   top: 1918px;
   left: 197px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 24px;
   font-weight: 500;
   line-height: 36px;
@@ -169,9 +154,6 @@ a {
   height: 36px;
   top: 1918px;
   left: 390px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 24px;
   font-weight: 400;
   line-height: 36px;
@@ -184,9 +166,6 @@ a {
   height: 96px;
   top: 2069px;
   left: 194px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -225,7 +204,6 @@ a {
 .options {
   width: 170px;
   height: 38px;
-  font-family: Poppins;
   font-size: 25px;
   font-weight: 600;
   line-height: 37.5px;
@@ -236,9 +214,6 @@ a {
 .info2 {
   width: 267px;
   height: 30px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 20px;
   font-weight: 500;
   line-height: 30px;
@@ -253,9 +228,6 @@ a {
   height: 36px;
   top: 48px;
   left: 100px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 24px;
   font-weight: 700;
   line-height: 36px;
@@ -268,8 +240,6 @@ a {
   height: 374px;
   top: 751px;
   left: 686px;
-  gap: 0px;
-  opacity: 0px;
 }
 
 .map {
@@ -282,9 +252,6 @@ a {
   height: 54px;
   top: 514px;
   left: 533px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 36px;
   font-weight: 600;
   line-height: 54px;
@@ -296,9 +263,9 @@ a {
   width: 644px;
   height: 48px;
   color: #9f9f9f;
-  margin-left: 398px;
-  margin-bottom: 128px;
-  margin-top: 7px;
+  transform:translate(50%);
+  margin-bottom: 50px;
+
 }
 
 .contact {
@@ -307,8 +274,6 @@ a {
   height: 374px;
   top: 751px;
   left: 686px;
-  gap: 0px;
-  opacity: 0px;
   vertical-align: middle;
 }
 
@@ -317,8 +282,6 @@ a {
   height: 537px;
   top: 705px;
   left: 82px;
-  gap: 0px;
-  opacity: 0px;
 }
 
 .name1 {
@@ -326,9 +289,6 @@ a {
   height: 36px;
   top: 799px;
   left: 82px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 24px;
   font-weight: 500;
   line-height: 36px;
@@ -341,9 +301,6 @@ a {
   height: 72px;
   top: 807px;
   left: 217px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -356,9 +313,6 @@ a {
   height: 45px;
   top: 1262px;
   left: 88px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 30px;
   font-weight: 500;
   line-height: 45px;
@@ -375,9 +329,6 @@ a {
   height: 115px;
   top: 1319px;
   left: 88px;
-  gap: 0px;
-  opacity: 0px;
-  font-family: Poppins;
   font-size: 15px;
   font-weight: 400;
   line-height: 22.5px;
@@ -388,9 +339,31 @@ a {
 .footer-div {
   display: inline-block;
   vertical-align: top;
+  margin-right: 400px;
 }
 
 .footer-info2 {
   display: inline-block;
   vertical-align: top;
+  margin-right: 200px;
+  
+}
+
+footer{
+
+  height: 300px;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.footer-info1{
+  margin-top: 100px;
+}
+
+.list{
+  margin-bottom: 25px;
+}
+
+.list.active{
+  color: #9f9f9f;
 }
